@@ -1,0 +1,11 @@
+{
+  "name": "api-desafio-snx",
+  "version": "1.0.0",
+  "description": "api desenvolvida para o desafio tecnico da Smart NX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Itagiba",
+  "license": "ISC"
+}
