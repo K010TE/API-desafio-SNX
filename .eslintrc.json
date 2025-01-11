@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "airbnb",
+    "airbnb/hooks"
+  ],
+  "rules": {
+    "no-console": "off"
+  }
+}

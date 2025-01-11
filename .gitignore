@@ -1,0 +1,21 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+.cache/
+.eslintcache
+
+# Diretório de configurações do VSCode
+.vscode/
+
+# Arquivos específicos do sistema operacional (macOS)
+.DS_Store
+
+# Arquivos específicos do IntelliJ/WebStorm
+.idea/
+
+# Arquivo .env para variáveis de ambiente
+.env
